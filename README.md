@@ -9,7 +9,7 @@ Simple WhatsApp Bot
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > git clone https://github.com/daudhanafi60/SAPITRI-
-> cd wabot-aq
+> cd SAPITRI-
 > npm install
 ```
 ###### Run
